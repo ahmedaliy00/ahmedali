@@ -37,6 +37,7 @@ My goal is to design scalable data pipelines, build reliable data platforms, and
 ### 🗄️ Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 📊 Data & Analytics
 
@@ -61,16 +62,6 @@ My goal is to design scalable data pipelines, build reliable data platforms, and
 An interactive web application that visualizes **Infix to Postfix Conversion** and **Stack-based Expression Evaluation**.
 
 🔗 Repository:https://ahmedaliy00.github.io/project/
-
----
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=ahmedaliy0&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-![](https://nirzak-streak-stats.vercel.app/?user=ahmedaliy0&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedaliy0&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
