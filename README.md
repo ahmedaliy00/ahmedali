@@ -2,7 +2,7 @@
 
 ## 🚀 Aspiring Data Engineer
 
-🎓 Computer Engineering Student from Egypt.
+🎓 Computer Engineering Student at Pharos University in Alexandria (PUA).
 
 I am building a strong foundation in software engineering, database systems, and modern data architectures to prepare for a career in Data Engineering.
 
@@ -71,12 +71,6 @@ An interactive web application that visualizes **Infix to Postfix Conversion** a
 ![](https://nirzak-streak-stats.vercel.app/?user=ahmedaliy0&theme=dark&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedaliy0&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-## 🏆 Top Contributed Repositories
-
-![](https://github-contributor-stats.vercel.app/api?username=ahmedaliy0&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
