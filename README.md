@@ -3,10 +3,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Ahmed%20Ali&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 <h2>
-Computer Engineering Student • Aspiring Data Engineer
+Computer Engineering Student • Microsoft Data Engineer Trainee
 </h2>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Aspiring+Data+Engineer;Computer+Engineering+Student;Building+Scalable+Data+Pipelines;Exploring+Big+Data+%26+Cloud;Always+Learning..." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Data+Engineer;Building+End-to-End+ETL+Pipelines;Containerization+with+Docker;Database+Engine+Deep-Dives;Exploring+Azure+%26+Big+Data;Always+Learning..." />
 
 </div>
 
@@ -16,51 +16,66 @@ Computer Engineering Student • Aspiring Data Engineer
 
 🎓 **Computer Engineering Student** at Pharos University in Alexandria (PUA).
 
-🚀 Building a strong foundation in software engineering, database systems, and modern data architectures.
+💡 Passionate about **Data Engineering**, Database Engine Internals, Systems Design, and Data Architectures.
 
-💡 Goal: Design scalable data pipelines, build reliable data platforms, and transform raw data into valuable insights using modern big data and cloud technologies.
+🛠️ Experienced in designing **scalable ETL/ELT Data Pipelines**, data modeling (Dimensional & Relational), and applying **Containerization using Docker** for reproducible data environments.
 
----
-
-# 🚀 Current Focus & Learning
-
-- Data Modeling & Data Warehousing
-- Data Lakes & Metadata Management
-- ETL & ELT Concepts
-- Apache Spark, Kafka & Airflow
-- Cloud Data Engineering (Microsoft Azure)
+🚀 Focusing on building end-to-end modern data platforms, ACID-compliant database processing, and cloud-native solutions.
 
 ---
 
 # 🛠 Tech Stack
 
-### Languages
-
+### 👨‍💻 Programming Languages
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,postgres"/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java"/>
 </p>
 
-### Databases & Analytics
-
+### 🗄️ Databases & Data Warehousing
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql"/>
 </p>
 
-### Tools & DevOps
-
+### ☁️ Cloud & DevOps / Infrastructure
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode"/>
+<img src="https://skillicons.dev/icons?i=azure,docker,linux,git,github"/>
+</p>
+
+### 📊 Data Analysis, BI & Visualization
+<p>
+<img src="https://skillicons.dev/icons?i=powerbi,tableau,excel"/>
 </p>
 
 ---
 
-# 📚 Currently Learning
+# 🚀 Current Focus & Engineering Interests
 
-- Data Modeling
-- Data Warehousing & Data Lakes
-- Apache Spark & Apache Kafka
-- Apache Airflow & Hadoop Ecosystem
-- Cloud Data Engineering (Azure)
+- **Data Pipelines:** Designing robust, fault-tolerant ETL/ELT workflows.
+- **Containerization:** Packaging data services, databases, and microservices using Docker.
+- **Data Modeling:** Star Schema, Snowflake Schema, and Normalization techniques.
+- **Database Engine Internals:** Deep diving into Indexing, Transactions, Concurrency, and ACID properties.
+- **Cloud Analytics:** Modern Cloud Data Warehousing on Microsoft Azure.
+
+---
+
+# 📚 Currently Learning & Expanding
+
+- Apache Spark & Distributed Data Processing
+- Apache Kafka & Real-Time Data Streaming
+- Apache Airflow Pipeline Orchestration
+- Advanced Cloud Architecture (Azure Data Factory, Databricks, Synapse)
+
+---
+
+# ⚡ Dev Status & Goals
+
+<div align="center">
+
+| 🔭 Current Activity | 🎯 Long-term Goal | 🛠️ Core Focus Area |
+| :--- | :--- | :--- |
+| Building Data Engineering Projects | Enterprise Data Architect | Data Pipelines, Containerization & Cloud |
+
+</div>
 
 ---
 
@@ -86,21 +101,11 @@ Computer Engineering Student • Aspiring Data Engineer
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedaliy0&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ahmedaliy0/ahmedaliy0/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedaliy0&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
 
@@ -118,20 +123,20 @@ An interactive web application that visualizes Infix to Postfix Conversion and S
 
 <p align="left">
 
-<a href="https://github.com/ahmedaliy0">
-<img src="https://skillicons.dev/icons?i=github"/>
+<a href="https://github.com/ahmedaliy0" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://linkedin.com/in/ahmedaliy0">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="https://linkedin.com/in/ahmedaliy0" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://instagram.com/ahmed3liy0">
-<img src="https://skillicons.dev/icons?i=instagram"/>
+<a href="https://instagram.com/ahmed3liy0" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram"/>
 </a>
 
-<a href="https://youtube.com/@ahmedaliy0">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<a href="mailto:202401999@pua.edu.eg">
+  <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 </p>
