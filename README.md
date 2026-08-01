@@ -83,9 +83,9 @@ Computer Engineering Student • Microsoft Data Engineer Trainee
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ahmedaliy0&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ahmedaliy01&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedaliy0&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedaliy01&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -95,7 +95,7 @@ Computer Engineering Student • Microsoft Data Engineer Trainee
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ahmedaliy0&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=ahmedaliy01&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -105,7 +105,7 @@ Computer Engineering Student • Microsoft Data Engineer Trainee
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedaliy0&theme=tokyo-night&hide_border=true&area=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedaliy01&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
 
@@ -123,7 +123,7 @@ An interactive web application that visualizes Infix to Postfix Conversion and S
 
 <p align="left">
 
-<a href="https://github.com/ahmedaliy0" target="_blank">
+<a href="https://github.com/ahmedaliy01" target="_blank">
   <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
@@ -145,6 +145,6 @@ An interactive web application that visualizes Infix to Postfix Conversion and S
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=ahmedaliy0&style=for-the-badge&color=blue)
+![](https://komarev.com/ghpvc/?username=ahmedaliy01&style=for-the-badge&color=blue)
 
 </div>
