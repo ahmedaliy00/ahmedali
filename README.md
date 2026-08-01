@@ -115,7 +115,7 @@ Computer Engineering Student • Microsoft Data Engineer Trainee
 
 ⭐ **StackCalc Visualizer**  
 An interactive web application that visualizes Infix to Postfix Conversion and Stack-based Expression Evaluation.  
-🔗 [Live Demo / Repository](https://ahmedaliy00.github.io/project/)
+🔗 [Live Demo / Repository](https://ahmedaliy01.github.io/project/)
 
 ---
 
