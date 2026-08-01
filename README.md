@@ -1,77 +1,145 @@
-# Hi 👋, I'm Ahmed Ali
+<div align="center">
 
-## 🚀 Aspiring Data Engineer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Ahmed%20Ali&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-🎓 Computer Engineering Student at Pharos University in Alexandria (PUA).
+<h2>
+Computer Engineering Student • Aspiring Data Engineer
+</h2>
 
-I am building a strong foundation in software engineering, database systems, and modern data architectures to prepare for a career in Data Engineering.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Aspiring+Data+Engineer;Computer+Engineering+Student;Building+Scalable+Data+Pipelines;Exploring+Big+Data+%26+Cloud;Always+Learning..." />
 
-My goal is to design scalable data pipelines, build reliable data platforms, and transform raw data into valuable insights using modern big data and cloud technologies.
+</div>
 
 ---
 
-## 🌱 Currently Learning
+# 👋 About Me
 
-- Data Modeling
-- Data Warehousing
-- Data Lakes
-- Metadata Management
+🎓 **Computer Engineering Student** at Pharos University in Alexandria (PUA).
+
+🚀 Building a strong foundation in software engineering, database systems, and modern data architectures.
+
+💡 Goal: Design scalable data pipelines, build reliable data platforms, and transform raw data into valuable insights using modern big data and cloud technologies.
+
+---
+
+# 🚀 Current Focus & Learning
+
+- Data Modeling & Data Warehousing
+- Data Lakes & Metadata Management
 - ETL & ELT Concepts
-- Apache Spark
-- Apache Kafka
-- Apache Airflow
-- Hadoop Ecosystem
+- Apache Spark, Kafka & Airflow
 - Cloud Data Engineering (Microsoft Azure)
 
 ---
 
-## 💻 Technical Skills
+# 🛠 Tech Stack
 
-### 👨‍💻 Programming Languages
+### Languages
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,postgres"/>
+</p>
 
-### 🗄️ Databases
+### Databases & Analytics
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres"/>
+</p>
 
-### 📊 Data & Analytics
+### Tools & DevOps
 
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-### 🛠️ Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode"/>
+</p>
 
 ---
 
-## 🚀 Featured Projects
+# 📚 Currently Learning
 
-### 🧮 StackCalc Visualizer
-
-An interactive web application that visualizes **Infix to Postfix Conversion** and **Stack-based Expression Evaluation**.
-
-🔗 Repository:https://ahmedaliy00.github.io/project/
-
----
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmedaliy0)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/ahmedaliy0)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ahmed3liy0)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@ahmedaliy0)
+- Data Modeling
+- Data Warehousing & Data Lakes
+- Apache Spark & Apache Kafka
+- Apache Airflow & Hadoop Ecosystem
+- Cloud Data Engineering (Azure)
 
 ---
 
-![](https://visitcount.itsvg.in/api?id=ahmedaliy0&icon=0&color=0)
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ahmedaliy0&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedaliy0&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ahmedaliy0&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedaliy0&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ahmedaliy0/ahmedaliy0/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+⭐ **StackCalc Visualizer**  
+An interactive web application that visualizes Infix to Postfix Conversion and Stack-based Expression Evaluation.  
+🔗 [Live Demo / Repository](https://ahmedaliy00.github.io/project/)
+
+---
+
+# 🌍 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/ahmedaliy0">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://linkedin.com/in/ahmedaliy0">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://instagram.com/ahmed3liy0">
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+
+<a href="https://youtube.com/@ahmedaliy0">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=ahmedaliy0&style=for-the-badge&color=blue)
+
+</div>
