@@ -131,7 +131,7 @@ An interactive web application that visualizes Infix to Postfix Conversion and S
   <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://instagram.com/ahmed3liy0" target="_blank">
+<a href="https://instagram.com/ahmedaliy.1" target="_blank">
   <img src="https://skillicons.dev/icons?i=instagram"/>
 </a>
 
