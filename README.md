@@ -135,7 +135,7 @@ An interactive web application that visualizes Infix to Postfix Conversion and S
   <img src="https://skillicons.dev/icons?i=instagram"/>
 </a>
 
-<a href="mailto:202401999@pua.edu.eg">
+<a href="mailto:ahmed.a.ali.tech@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
